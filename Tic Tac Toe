@@ -1,0 +1,7 @@
+ const Player = (name, turns, win, lose) 
+    const getName = () => Player 1 = X 
+    const getName = () => Player 2 = O 
+    const turns = 3 
+    const lose = try again 
+    const win = congratulations 
+    
